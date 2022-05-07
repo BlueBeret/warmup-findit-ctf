@@ -8,5 +8,9 @@ But we can't understand it. He then responded, "7 shift" We still can't understa
 
 c = '?bg]BM<M?tP^eeXA^eehXfrX_kb,g].v'
 
+# jelas di soal dikasi tau kalo ini caesar cipher pake shift 7.
+
 for i in c :
     print(chr(ord(i)+7), end="")
+
+    
